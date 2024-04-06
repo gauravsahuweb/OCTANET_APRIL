@@ -1,2 +1,4 @@
 # OCTANET_APRIL
-Completed Task-1 landing page for Octanet using HTML/CSS. Responsive design, semantic markup, and brand adherence showcased. Explore now!
+Completed Task-1 landing page for Octanet using HTML/CSS. Design, semantic markup, and brand adherence showcased. Explore now!
+<br>
+<a herf=''>Live Previou</a>
